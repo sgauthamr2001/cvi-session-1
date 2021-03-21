@@ -12,7 +12,6 @@ The CVI club, as a part of its first session, Introduction to OpenCV, gives a br
     3) Image_Filtering.ipynb - Colab notebook for Filtering
 
 - Recording : [Link to the recording](https://drive.google.com/file/d/1StWoIqUJ7IdLPEMlCqF2ybAcAYlDUTFz/view?usp=sharing)
-Shall be updated soon  
 
 In case of any queries, post them on [here](https://github.com/sgauthamr2001/cvi-session-1/discussions/categories/q-a). We strongly urge everyone to post their queries in the discussions tab rather than personally contacting us to avoid repetitions. You can also check [here](https://github.com/sgauthamr2001/cvi-session-1/discussions/categories/show-and-tell) for resources that we share as we go on. 
 
