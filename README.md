@@ -1,5 +1,5 @@
 # Cvi-session-1
-The CVI club, as a part of its first session, Introduction to OpenCV, gives a brief introduction to the topics like Colorspaces, Thresholding and Filtering. These shall help in several other computer vision applications. The files used, have been uploaded here, and the description of the same are as follows  : 
+The [CVI club](https://iitmcvg.github.io/), IIT Madras as a part of its first session, Introduction to OpenCV, gives a brief introduction to the topics like Colorspaces, Thresholding and Filtering. These shall help in several other computer vision applications. The files used, have been uploaded here, and the description of the same are as follows  : 
 
 - Repositories :
     1) images - Contains images used in notebooks
