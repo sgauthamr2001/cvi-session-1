@@ -7,9 +7,9 @@ The [CVI club](https://iitmcvg.github.io/), IIT Madras as a part of its first se
     3) slides - slides used for colorspaces and thresholding
 
 - .ipynb Notebooks : 
-    1) Colorspaces.ipynb - [![Open All Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sgauthamr2001/cvi-session-1/blob/master/notebooks/Colorspaces.ipynb)
-    2) Thresholding.ipynb - [![Open All Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sgauthamr2001/cvi-session-1/blob/master/notebooks/Thresholding.ipynb)
-    3) Image_Filtering.ipynb - [![Open All Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sgauthamr2001/cvi-session-1/blob/master/notebooks/Image_Filtering.ipynb)
+    1) Colorspaces.ipynb  [![Open All Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sgauthamr2001/cvi-session-1/blob/master/notebooks/Colorspaces.ipynb)
+    2) Thresholding.ipynb  [![Open All Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sgauthamr2001/cvi-session-1/blob/master/notebooks/Thresholding.ipynb)
+    3) Image_Filtering.ipynb  [![Open All Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sgauthamr2001/cvi-session-1/blob/master/notebooks/Image_Filtering.ipynb)
 
 - Recording : [Link to the recording](https://drive.google.com/file/d/1StWoIqUJ7IdLPEMlCqF2ybAcAYlDUTFz/view?usp=sharing)
 
