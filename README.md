@@ -11,4 +11,4 @@ Thresholding.ipynb - Colab notebook for Thresholding
 
 Filtering  - Containes images used for Filtering
 
-Filtering.ipynb - Colab notebook for Filtering
+Image_Filtering.ipynb - Colab notebook for Filtering
